@@ -1,0 +1,201 @@
+company_name,email,owner_name,job_role,quote_value,item_count,conversion_days,past_engagements,industry
+BioMaxTechnologies,vp@biomaxtechnologies.com,Ashley Scott,VP Sales,212337,155,89,4,Healthcare
+DataMaxPartners,manager@datamaxpartners.com,Margaret Allen,Manager,244027,465,16,5,Technology
+MedicalTechServices,vp@medicaltechservices.com,Nicholas Baker,VP Engineering,159478,113,74,7,Healthcare
+FinMaxSolutions,vp@finmaxsolutions.com,Christopher Wilson,VP Sales,327348,384,32,8,Finance
+RetailMaxLabs,chief@retailmaxlabs.com,Joseph Campbell,Chief Information Officer,145387,168,85,5,Retail
+TechSoftSystems,vp@techsoftsystems.com,John Lewis,VP Sales,69457,79,68,1,Technology
+PremierSoftInc,manager@premiersoft.com,Sandra Flores,Manager,72606,136,86,1,Other
+MegaInc,director@mega.com,Jacob Green,Director IT,32185,62,74,3,Retail
+SmartTechCorp,procurement@smarttech.com,Sarah Davis,Procurement,170151,185,22,4,Technology
+PrecisionSoftGroup,chief@precisionsoftgroup.com,Linda King,Chief Executive Officer,584488,1000,87,12,Manufacturing
+AIStarIndustries,chief@aistarindustries.com,Kenneth Torres,Chief Executive Officer,494407,450,49,5,Technology
+EliteMaxCorp,vp@elitemax.com,Susan Anderson,VP Engineering,46910,41,41,0,Other
+CyberSolutions,manager@cybersolutions.com,Brian Thompson,Manager,172096,167,18,7,Technology
+IndustrialMaxSystems,chief@industrialmaxsystems.com,William Ramirez,Chief Technology Officer,523585,752,76,13,Manufacturing
+FashionStarSystems,manager@fashionstarsystems.com,James Clark,Manager,38047,65,76,0,Retail
+PharmaProServices,chief@pharmaproservices.com,Andrew Adams,Chief Technology Officer,261959,340,76,6,Healthcare
+CareTechPartners,chief@caretechpartners.com,Timothy Johnson,Chief Financial Officer,291005,569,66,5,Healthcare
+AdvancedTechCorp,chief@advancedtech.com,Brian Young,Chief Information Officer,705281,884,68,11,Manufacturing
+AcademyMaxInc,vp@academymax.com,Jennifer Taylor,VP Engineering,56309,48,82,2,Education
+AdvancedSoftSystems,vp@advancedsoftsystems.com,Mary Garcia,VP Sales,184698,318,30,2,Manufacturing
+IndustrialPlusSystems,vp@industrialplussystems.com,Edward Allen,VP Operations,184754,316,34,5,Manufacturing
+MediTechTechnologies,vp@meditechtechnologies.com,Jason Wright,VP Operations,114384,93,45,7,Healthcare
+QuantumTechLabs,vp@quantumtechlabs.com,Linda Jones,VP Engineering,161472,139,62,7,Technology
+AcademyTechIndustries,chief@academytechindustries.com,Ashley Allen,Chief Executive Officer,162642,258,17,5,Education
+IndustrialPlusCorp,manager@industrialplus.com,Gary Moore,Manager,329426,348,39,6,Manufacturing
+InvestPlusServices,vp@investplusservices.com,Joseph Miller,VP Operations,123328,153,62,5,Finance
+PrecisionStarSolutions,chief@precisionstarsolutions.com,Joseph Clark,Chief Information Officer,596381,1000,65,10,Manufacturing
+BioPlusCorp,vp@bioplus.com,John Wright,VP Sales,211672,167,75,4,Healthcare
+RetailStarGroup,chief@retailstargroup.com,Steven Wright,Chief Financial Officer,123828,234,60,6,Retail
+DynamicGroup,chief@dynamicgroup.com,Steven Williams,Chief Information Officer,235314,177,39,3,Other
+CapitalPartners,chief@capitalpartners.com,Andrew Rodriguez,Chief Technology Officer,442074,416,31,12,Finance
+AdvancedLabs,chief@advancedlabs.com,Richard Scott,Chief Financial Officer,509592,722,74,14,Manufacturing
+RetailStarTechnologies,director@retailstartechnologies.com,Sandra Perez,Director IT,75766,41,80,3,Retail
+MediSoftPartners,director@medisoftpartners.com,Jeffrey Torres,Director IT,106024,58,84,7,Healthcare
+TradingGroup,chief@tradinggroup.com,Ronald Thomas,Chief Technology Officer,557484,441,61,7,Finance
+DynamicStarLabs,chief@dynamicstarlabs.com,Brian Sanchez,Chief Technology Officer,223847,202,72,3,Other
+ElitePlusServices,chief@eliteplusservices.com,Eric Harris,Chief Financial Officer,216617,405,48,7,Other
+AdvancedMaxCorp,vp@advancedmax.com,Daniel Thomas,VP Operations,290734,335,81,5,Manufacturing
+DigitalMaxServices,chief@digitalmaxservices.com,David Lopez,Chief Technology Officer,485412,311,76,8,Technology
+CloudGroup,chief@cloudgroup.com,Patricia Jones,Chief Executive Officer,356573,410,37,14,Technology
+UniversitySoftLabs,manager@universitysoftlabs.com,John Thomas,Manager,39823,71,83,0,Education
+AITechInc,director@aitech.com,Kenneth Allen,Director IT,269295,514,38,5,Technology
+InvestPlusGroup,chief@investplusgroup.com,Kenneth Thompson,Chief Financial Officer,398304,588,57,6,Finance
+QuantumSoftLabs,chief@quantumsoftlabs.com,Jacob Hernandez,Chief Technology Officer,365953,326,21,8,Technology
+UniversityMaxServices,manager@universitymaxservices.com,Kenneth Wright,Manager,74425,84,38,3,Education
+MediCorp,vp@medi.com,Elizabeth Thompson,VP Sales,213429,286,26,2,Healthcare
+RetailTechCorp,vp@retailtech.com,Nancy Scott,VP Engineering,66959,72,27,2,Retail
+TechPlusSolutions,chief@techplussolutions.com,Nicholas Thomas,Chief Executive Officer,359163,691,66,7,Technology
+CarePlusServices,vp@careplusservices.com,Jason Hill,VP Operations,193324,326,71,6,Healthcare
+PremierProGroup,manager@premierprogroup.com,Ryan Taylor,Manager,142634,222,23,3,Other
+AISoftTechnologies,chief@aisofttechnologies.com,George Jackson,Chief Financial Officer,319065,229,43,9,Technology
+TradingStarCorp,director@tradingstar.com,Kevin Garcia,Director IT,288926,537,59,5,Finance
+IndustrialPartners,chief@industrialpartners.com,Anthony Martin,Chief Financial Officer,704786,469,81,6,Manufacturing
+SmartServices,vp@smartservices.com,Christopher Allen,VP Operations,289564,247,77,5,Technology
+DigitalPlusLabs,procurement@digitalpluslabs.com,Margaret Hernandez,Procurement,203772,115,35,7,Technology
+UniversityProSolutions,manager@universityprosolutions.com,Robert Thomas,Manager,101726,146,28,2,Education
+IndustrialStarLabs,vp@industrialstarlabs.com,Joseph Ramirez,VP Engineering,216203,216,50,3,Manufacturing
+TechProSystems,vp@techprosystems.com,Gary Wright,VP Operations,155616,143,43,6,Technology
+ShopMaxSolutions,vp@shopmaxsolutions.com,Andrew Smith,VP Sales,85545,162,19,2,Retail
+FinSoftGroup,chief@finsoftgroup.com,Joshua Green,Chief Financial Officer,380309,663,63,5,Finance
+HealthGroup,director@healthgroup.com,Robert Thompson,Director IT,224456,292,19,7,Healthcare
+MegaSoftLabs,chief@megasoftlabs.com,Jacob Gonzalez,Chief Financial Officer,138212,162,15,4,Retail
+TechSoftCorp,chief@techsoft.com,Robert Lopez,Chief Executive Officer,438311,233,48,10,Technology
+FashionStarGroup,manager@fashionstargroup.com,Susan Torres,Manager,62808,86,61,2,Retail
+AutoSolutions,chief@autosolutions.com,Karen Robinson,Chief Technology Officer,558587,1000,64,6,Manufacturing
+InvestPlusInc,vp@investplus.com,Sarah Jones,VP Engineering,287872,482,44,3,Finance
+ShopTechTechnologies,vp@shoptechtechnologies.com,William Johnson,VP Engineering,39963,23,83,1,Retail
+CareSolutions,chief@caresolutions.com,Ronald Brown,Chief Technology Officer,377162,267,22,8,Healthcare
+CareProSolutions,vp@careprosolutions.com,Margaret Jones,VP Sales,150697,211,65,4,Healthcare
+MediMaxPartners,vp@medimaxpartners.com,Barbara Sanchez,VP Engineering,179680,185,60,3,Healthcare
+PrecisionTechLabs,vp@precisiontechlabs.com,Daniel Scott,VP Engineering,324293,201,77,5,Manufacturing
+RetailMaxSolutions,procurement@retailmaxsolutions.com,Anthony Thompson,Procurement,20302,21,28,1,Retail
+CapitalStarLabs,chief@capitalstarlabs.com,George Wright,Chief Technology Officer,496198,759,37,6,Finance
+HealthMaxIndustries,chief@healthmaxindustries.com,Sarah Gonzalez,Chief Information Officer,241062,236,58,2,Healthcare
+BankProLabs,vp@bankprolabs.com,Ryan Jackson,VP Sales,224049,141,48,2,Finance
+BioPlusPartners,vp@biopluspartners.com,Andrew Perez,VP Sales,201394,208,84,6,Healthcare
+DigitalPlusIndustries,director@digitalplusindustries.com,Robert Walker,Director IT,299277,277,38,2,Technology
+PharmaTechnologies,manager@pharmatechnologies.com,Donald Nguyen,Manager,116427,227,18,7,Healthcare
+PrecisionInc,vp@precision.com,William Sanchez,VP Engineering,394761,363,58,9,Manufacturing
+CareTechSystems,vp@caretechsystems.com,Brian Hernandez,VP Operations,202534,316,28,7,Healthcare
+OnlineTechSolutions,chief@onlinetechsolutions.com,Ryan Johnson,Chief Executive Officer,179383,125,37,3,Education
+MediTechSystems,chief@meditechsystems.com,George Wright,Chief Technology Officer,348872,572,89,12,Healthcare
+HealthStarGroup,vp@healthstargroup.com,Joshua Lopez,VP Operations,117929,80,89,2,Healthcare
+HealthStarTechnologies,chief@healthstartechnologies.com,Margaret Torres,Chief Technology Officer,327388,232,28,7,Healthcare
+CommerceStarLabs,chief@commercestarlabs.com,Paul Nguyen,Chief Executive Officer,104060,143,32,7,Retail
+FinTechServices,manager@fintechservices.com,Timothy Garcia,Manager,276630,359,67,4,Finance
+AcademySoftTechnologies,chief@academysofttechnologies.com,Mark Nguyen,Chief Technology Officer,191324,237,41,5,Education
+MegaProGroup,vp@megaprogroup.com,Patricia Allen,VP Operations,87779,118,24,0,Retail
+SmartMaxSystems,chief@smartmaxsystems.com,Mark Campbell,Chief Technology Officer,340631,426,22,9,Technology
+BioProInc,vp@biopro.com,David Martin,VP Sales,150683,198,57,4,Healthcare
+CloudStarTechnologies,chief@cloudstartechnologies.com,Elizabeth Flores,Chief Information Officer,355318,423,60,14,Technology
+FinCorp,vp@fin.com,Brian Davis,VP Operations,127306,241,82,6,Finance
+PrecisionTechLabs,chief@precisiontechlabs.com,James Rivera,Chief Financial Officer,655399,1000,25,11,Manufacturing
+CloudStarSystems,director@cloudstarsystems.com,Ronald Anderson,Director IT,282448,509,69,4,Technology
+HealthTechGroup,chief@healthtechgroup.com,Christopher Sanchez,Chief Information Officer,279224,141,55,4,Healthcare
+LearnSoftIndustries,vp@learnsoftindustries.com,Ashley Harris,VP Engineering,66368,91,73,3,Education
+WealthTechGroup,chief@wealthtechgroup.com,Margaret Miller,Chief Executive Officer,454270,416,40,6,Finance
+GlobalPlusCorp,chief@globalplus.com,Paul Gonzalez,Chief Financial Officer,246731,321,63,2,Other
+CareProTechnologies,chief@careprotechnologies.com,Nancy Moore,Chief Executive Officer,373789,293,59,12,Healthcare
+DataSoftInc,vp@datasoft.com,John Smith,VP Engineering,88000,96,52,2,Technology
+CareSoftLabs,manager@caresoftlabs.com,Paul Miller,Manager,195993,218,69,5,Healthcare
+PrecisionServices,chief@precisionservices.com,Nicholas Torres,Chief Information Officer,772822,1000,86,10,Manufacturing
+TechSoftTechnologies,director@techsofttechnologies.com,Jessica Brown,Director IT,137127,217,60,4,Technology
+OnlineSoftIndustries,chief@onlinesoftindustries.com,Nancy Scott,Chief Technology Officer,136032,110,33,6,Education
+AutoTechInc,director@autotech.com,Sandra Lopez,Director IT,237955,238,16,4,Manufacturing
+MegaStarPartners,chief@megastarpartners.com,Patricia Robinson,Chief Executive Officer,97083,80,38,0,Retail
+WealthTechIndustries,vp@wealthtechindustries.com,Jacob Harris,VP Engineering,127856,115,54,3,Finance
+DigitalProPartners,chief@digitalpropartners.com,Karen Lee,Chief Financial Officer,355961,458,51,10,Technology
+RetailSoftPartners,vp@retailsoftpartners.com,Steven Garcia,VP Engineering,21622,14,41,0,Retail
+AutoMaxServices,chief@automaxservices.com,Gary Johnson,Chief Information Officer,777881,860,76,14,Manufacturing
+DataProCorp,chief@datapro.com,Timothy Flores,Chief Technology Officer,353276,382,54,8,Technology
+CapitalIndustries,manager@capitalindustries.com,Kevin Campbell,Manager,325685,520,47,14,Finance
+DataProSystems,director@dataprosystems.com,Michael Rodriguez,Director IT,205130,286,87,3,Technology
+TechTechCorp,vp@techtech.com,Robert Torres,VP Operations,133559,153,53,4,Technology
+DataSoftPartners,chief@datasoftpartners.com,Patricia Campbell,Chief Technology Officer,391748,249,63,5,Technology
+QuantumProTechnologies,vp@quantumprotechnologies.com,Karen Harris,VP Operations,232932,381,84,2,Technology
+IndustrialTechLabs,manager@industrialtechlabs.com,Margaret Perez,Manager,187641,259,31,3,Manufacturing
+OnlineTechIndustries,chief@onlinetechindustries.com,Karen Adams,Chief Information Officer,193543,378,53,4,Education
+IndustrialProInc,vp@industrialpro.com,John Lewis,VP Operations,284055,329,53,2,Manufacturing
+AdvancedTechInc,manager@advancedtech.com,Jason King,Manager,229273,416,80,4,Manufacturing
+AIProInc,chief@aipro.com,Mark Baker,Chief Technology Officer,407309,417,76,5,Technology
+RoboSoftServices,chief@robosoftservices.com,Donald Williams,Chief Technology Officer,766718,867,19,5,Manufacturing
+WealthPlusInc,vp@wealthplus.com,Gary Anderson,VP Operations,350148,197,79,9,Finance
+HealthPlusServices,chief@healthplusservices.com,William Hill,Chief Information Officer,283001,480,57,5,Healthcare
+AcademyTechInc,vp@academytech.com,Jacob Rivera,VP Operations,92211,78,34,0,Education
+CloudSoftServices,chief@cloudsoftservices.com,Nicholas Thompson,Chief Technology Officer,486626,846,19,9,Technology
+AcademySoftSystems,vp@academysoftsystems.com,Sarah White,VP Engineering,72874,79,64,1,Education
+AcademyMaxPartners,chief@academymaxpartners.com,Brian King,Chief Information Officer,195758,108,82,7,Education
+InvestProServices,manager@investproservices.com,David Hernandez,Manager,125931,69,54,2,Finance
+QuantumProPartners,vp@quantumpropartners.com,Eric Gonzalez,VP Operations,162217,210,51,5,Technology
+OnlineSoftCorp,vp@onlinesoft.com,Ronald King,VP Engineering,32396,60,81,3,Education
+TradingStarCorp,vp@tradingstar.com,Elizabeth Nelson,VP Engineering,348143,517,73,13,Finance
+SmartPlusLabs,vp@smartpluslabs.com,Jacob Walker,VP Sales,183541,143,19,4,Technology
+ShopStarGroup,manager@shopstargroup.com,Michael Young,Manager,38787,51,26,2,Retail
+DataTechCorp,vp@datatech.com,Kenneth Mitchell,VP Sales,213038,226,78,6,Technology
+DigitalSoftIndustries,chief@digitalsoftindustries.com,Mark Perez,Chief Financial Officer,444353,450,74,9,Technology
+UniversityPlusInc,chief@universityplus.com,James Perez,Chief Executive Officer,170192,281,31,3,Education
+IndustrialSoftInc,procurement@industrialsoft.com,Kenneth Lopez,Procurement,265374,518,50,4,Manufacturing
+DataStarCorp,chief@datastar.com,Gary King,Chief Financial Officer,393106,345,40,6,Technology
+GlobalMaxSolutions,director@globalmaxsolutions.com,Paul Johnson,Director IT,108878,184,43,4,Other
+FashionProPartners,chief@fashionpropartners.com,Mark Lee,Chief Executive Officer,142048,276,70,5,Retail
+OnlineStarSystems,vp@onlinestarsystems.com,George Anderson,VP Operations,62196,122,15,1,Education
+IndustrialTechCorp,vp@industrialtech.com,Gary Harris,VP Operations,176385,316,41,5,Manufacturing
+OnlineTechnologies,vp@onlinetechnologies.com,Ryan White,VP Engineering,115553,189,17,6,Education
+AcademyStarSystems,vp@academystarsystems.com,Ryan Martin,VP Engineering,77837,52,31,1,Education
+MedicalPlusServices,chief@medicalplusservices.com,Elizabeth Taylor,Chief Technology Officer,245109,242,16,4,Healthcare
+CloudStarInc,procurement@cloudstar.com,Andrew Nguyen,Procurement,156661,146,59,2,Technology
+AcademyProPartners,chief@academypropartners.com,Betty Ramirez,Chief Technology Officer,163408,106,60,7,Education
+AutoSoftTechnologies,chief@autosofttechnologies.com,Elizabeth Sanchez,Chief Executive Officer,529153,688,44,5,Manufacturing
+MediPartners,chief@medipartners.com,Ronald Hernandez,Chief Information Officer,315897,537,58,5,Healthcare
+DataTechPartners,manager@datatechpartners.com,Linda Davis,Manager,180406,256,55,3,Technology
+UniversityStarSystems,vp@universitystarsystems.com,Betty Sanchez,VP Sales,56630,84,18,1,Education
+FinStarLabs,chief@finstarlabs.com,Jacob Jackson,Chief Technology Officer,571957,794,26,13,Finance
+DynamicMaxTechnologies,director@dynamicmaxtechnologies.com,William Moore,Director IT,110326,62,58,3,Other
+AdvancedTechTechnologies,vp@advancedtechtechnologies.com,Richard Lopez,VP Engineering,421090,640,68,5,Manufacturing
+SmartMaxLabs,director@smartmaxlabs.com,Ashley Young,Director IT,228980,233,34,5,Technology
+CapitalSoftGroup,vp@capitalsoftgroup.com,Timothy Adams,VP Engineering,143585,200,50,7,Finance
+PremierMaxPartners,chief@premiermaxpartners.com,Kenneth Sanchez,Chief Information Officer,198364,237,35,2,Other
+AutoInc,chief@auto.com,Nicholas Wilson,Chief Financial Officer,656037,812,76,10,Manufacturing
+FinSoftSystems,chief@finsoftsystems.com,Kenneth Torres,Chief Technology Officer,461520,501,42,6,Finance
+TechPlusTechnologies,chief@techplustechnologies.com,Robert Wilson,Chief Technology Officer,443660,379,45,14,Technology
+BioPlusLabs,director@biopluslabs.com,James Martin,Director IT,212348,185,57,5,Healthcare
+CareGroup,vp@caregroup.com,Nicholas Anderson,VP Sales,167324,279,58,5,Healthcare
+InvestSoftSystems,procurement@investsoftsystems.com,Mark Smith,Procurement,297576,385,34,3,Finance
+DigitalMaxGroup,chief@digitalmaxgroup.com,Lisa White,Chief Technology Officer,460928,581,26,14,Technology
+AutoSoftServices,procurement@autosoftservices.com,Sandra Baker,Procurement,296470,350,57,3,Manufacturing
+WealthSoftSystems,chief@wealthsoftsystems.com,Joseph Lewis,Chief Information Officer,495542,368,15,11,Finance
+BioPartners,vp@biopartners.com,Karen Taylor,VP Operations,221649,235,44,3,Healthcare
+RetailTechTechnologies,vp@retailtechtechnologies.com,Eric Jones,VP Operations,51890,99,28,0,Retail
+WealthSoftInc,vp@wealthsoft.com,Eric Gonzalez,VP Sales,346334,680,55,13,Finance
+MegaProServices,manager@megaproservices.com,Joshua Moore,Manager,49165,92,33,1,Retail
+AcademyStarCorp,vp@academystar.com,Margaret Jackson,VP Engineering,81924,80,85,2,Education
+HealthTechCorp,vp@healthtech.com,Joseph Rivera,VP Engineering,171546,144,25,4,Healthcare
+AutoProServices,vp@autoproservices.com,Mark Sanchez,VP Engineering,418615,535,84,9,Manufacturing
+SmartMaxInc,chief@smartmax.com,William Rivera,Chief Information Officer,346819,489,62,11,Technology
+IndustrialGroup,chief@industrialgroup.com,Kevin Hernandez,Chief Financial Officer,539182,327,29,13,Manufacturing
+PharmaMaxGroup,chief@pharmamaxgroup.com,Matthew Lewis,Chief Executive Officer,286413,351,66,7,Healthcare
+CommerceSoftTechnologies,vp@commercesofttechnologies.com,Christopher Robinson,VP Sales,32289,29,18,1,Retail
+AILabs,vp@ailabs.com,Jason Scott,VP Engineering,53654,50,56,0,Technology
+MedicalStarIndustries,vp@medicalstarindustries.com,Elizabeth Perez,VP Engineering,146031,188,61,4,Healthcare
+SmartSoftServices,chief@smartsoftservices.com,Daniel Clark,Chief Information Officer,106393,81,56,2,Retail
+ShopProTechnologies,director@shopprotechnologies.com,Kevin Martinez,Director IT,51910,77,32,2,Retail
+CapitalGroup,chief@capitalgroup.com,Betty Mitchell,Chief Information Officer,377633,456,35,5,Finance
+CareProIndustries,chief@careproindustries.com,Michael Wright,Chief Information Officer,398285,576,71,13,Healthcare
+CapitalSoftSolutions,chief@capitalsoftsolutions.com,Ashley Rivera,Chief Financial Officer,391910,621,89,11,Finance
+CloudSoftPartners,manager@cloudsoftpartners.com,Mary Davis,Manager,220604,136,50,4,Technology
+MedicalServices,chief@medicalservices.com,Ryan Clark,Chief Technology Officer,312240,545,74,9,Healthcare
+AutoStarSolutions,chief@autostarsolutions.com,Sandra Baker,Chief Information Officer,787257,786,84,6,Manufacturing
+PrecisionSoftSolutions,chief@precisionsoftsolutions.com,Kevin Jones,Chief Financial Officer,795507,469,58,14,Manufacturing
+AIServices,vp@aiservices.com,Sarah Thomas,VP Engineering,298253,338,69,5,Technology
+RoboStarSolutions,chief@robostarsolutions.com,Ronald Baker,Chief Information Officer,582747,1000,19,8,Manufacturing
+DigitalPlusGroup,vp@digitalplusgroup.com,Jessica Lopez,VP Sales,106273,178,46,2,Technology
+ShopTechSystems,chief@shoptechsystems.com,Mary Smith,Chief Information Officer,148945,159,16,4,Retail
+PharmaSoftIndustries,vp@pharmasoftindustries.com,Brian Adams,VP Sales,165373,310,57,7,Healthcare
+FinStarLabs,director@finstarlabs.com,William Williams,Director IT,134594,203,44,7,Finance
+FashionServices,chief@fashionservices.com,Barbara Martin,Chief Financial Officer,96721,70,49,1,Retail
+CapitalSoftServices,chief@capitalsoftservices.com,Gary Thomas,Chief Technology Officer,424309,411,28,5,Finance
+MegaProSystems,manager@megaprosystems.com,Joshua Brown,Manager,43429,31,22,0,Retail
+CyberSoftSystems,chief@cybersoftsystems.com,Sandra Jackson,Chief Executive Officer,335262,489,57,6,Technology
+BioSoftSolutions,vp@biosoftsolutions.com,Margaret Rodriguez,VP Engineering,194863,184,23,4,Healthcare
