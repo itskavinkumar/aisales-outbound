@@ -36,17 +36,27 @@ This platform automates the entire outbound sales workflow from lead scoring to 
 
 ## Problem Statement
 
-**Original Challenge:**
-- **228 leads in database but only 100 displaying** in frontend (pagination issue)
-- **All lead scores showing 0%** preventing email campaign functionality
-- **No high-value leads available** for targeted outreach (requires score >60%)
-- **Manual lead qualification** consuming excessive sales team time
+## Problem Statement
+Title
+AI-based Outbound Sales for IT Industry	GenAI + Predictive Analytics + CRM
+Technology
+GenAI + Predictive Analytics + CRM Data Processing
+Objective
+1. Increase qualified outbound leads using personalized, use-case-driven outreach
+2. Leverage existing customer data and internal case studies to drive cross-sell and upsell
+3. Reduce manual sales effort and improve sales team productivity
+What the system must do
+Ingest customer data (industry, role, past engagements) from CRM and internal databases
+Ingest company use cases, solutions, and success stories from internal repositories
+AI segments customers monthly based on relevance, industry, and maturity
+AI maps the most relevant internal use case to each customer segment
+GenAI creates personalized, contextualized outbound emails aligned to customer pain points
+Emails are sent via integrated email automation tools with scheduling and throttling
 
-**Solution Delivered:**
-- ✅ Fixed pagination: Now displays all leads (up to 1,000)
-- ✅ Implemented hybrid scoring algorithm: 161 high-value leads (>70%), 65 medium (40-70%), 2 low (<40%)
-- ✅ Automated lead enrichment with AI segmentation
-- ✅ Email campaign system with 161 qualified prospects ready for outreach
+Solution Provided by Our System
+“This project fully automates the manual outbound sales process.
+It uses AI to identify high-value leads, generate personalized emails, improve conversion rates, and save significant time for the sales team.”
+---
 
 ---
 
@@ -236,21 +246,28 @@ npm list react typescript vite
 Create `.env` file in `backend/` directory:
 
 ```env
-# MongoDB Configuration
-MONGODB_URL=mongodb://localhost:27017
-DATABASE_NAME=ai_sales_db
-
 # Groq API (for AI email generation)
-GROQ_API_KEY=your_groq_api_key_here
-
-# Email Configuration (optional - for sending emails)
+Groq API KEY="Your_api_key "
+# Email Configuration (for sending emails)
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
-EMAIL_USER=your_email@gmail.com
-EMAIL_PASSWORD=your_app_specific_password
+EMAIL_USER=your mail
+EMAIL_PASSWORD=your password 
 
-# Application Settings
-CORS_ORIGINS=http://localhost:5173
+# MongoDB Configuration
+MONGO_URL=mongodb://localhost:27017
+DB_NAME=ai_sales_db
+
+# CRM Integration (Salesforce)
+# Set to 'true' to enable live CRM data sync
+USE_CRM=true
+
+# Salesforce Credentials
+# Get your security token: Settings → My Personal Information → Reset Security Token
+SF_USERNAME=your_salesforce_email@company.com
+SF_PASSWORD=your_salesforce_password
+SF_TOKEN=your_salesforce_security_token
+```
 ```
 
 **Get Groq API Key:**
